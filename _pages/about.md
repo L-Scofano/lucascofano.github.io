@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I'm a dedicated Data Science Ph.D. student at Sapienza University of Rome, where I'm deeply immersed in computer vision as a member of the PINlab group. You can learn more about our research by visiting our [website](https://www.pinlab.org/).
+Hello! I'm a Data Science Ph.D. student at Sapienza University of Rome, where I'm deeply immersed in computer vision as a member of the PINlab group. You can learn more about our research by visiting our [website](https://www.pinlab.org/).
 
 My academic journey has been a diverse one. I earned my bachelor's degree in Economics, with a particular emphasis on Macroeconomics and Econometrics. This foundation in economics has provided me with a unique perspective on approaching data-driven problems.
 For my master's degree, I transitioned into Data Science, specifically focusing on Computer Vision. Within this field, I became particularly interested in multi-agent trajectory forecasting, a fascinating area that presents many challenges and opportunities.
