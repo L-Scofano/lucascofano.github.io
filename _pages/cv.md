@@ -6,7 +6,7 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-
+<!-- 
 {% include base_path %}
 
 Education
@@ -57,3 +57,9 @@ Teaching
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
+
+<a href="lucascofano.github.io/documents/cv.pdf" target="_blank">PDF.</a> -->
+
+<!-- <object data="lucascofano.github.io{{ site.baseurl }}/documents/cv.pdf" width="1000" height="1000" type='application/pdf'/> -->
+
+<embed src="https://lucascofano.github.io/documents/cv.pdf" type="application/pdf" />
