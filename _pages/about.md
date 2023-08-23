@@ -20,8 +20,8 @@ As a researcher and an individual, I'm driven by curiosity, a thirst for knowled
 
 ## News
 
-08/2023: Our Paper "Staged Contact-Aware Global Human Motion
-Forecasting" has been accepted at BMVC 2023!
+<!-- 08/2023: Our Paper "Staged Contact-Aware Global Human Motion
+Forecasting" has been accepted at BMVC 2023! -->
 
 07/2023: We **won** the ICML 2023 Topological Deep Learning [Challenge](https://pyt-team.github.io/topomodelx/challenge/index.html)!
 
