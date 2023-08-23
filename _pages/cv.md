@@ -62,4 +62,6 @@ Service and leadership
 
 <!-- <object data="lucascofano.github.io{{ site.baseurl }}/documents/cv.pdf" width="1000" height="1000" type='application/pdf'/> -->
 
-<embed src="https://lucascofano.github.io/documents/cv.pdf" type="application/pdf" />
+<!-- <embed src="https://lucascofano.github.io/documents/cv.pdf" type="application/pdf" /> -->
+
+<embed src="{{ site.baseurl }}/files/cv.pdf" width="600" height="700" type='application/pdf'> 
