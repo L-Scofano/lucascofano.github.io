@@ -11,9 +11,9 @@ title                    : "Luca Scofano"
 title_separator          : "-"
 name                     : &name "Luca Scofano"
 description              : &description "personal description"
-url                      : "https://lucascofano.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "/lucascofano.github.io" # the subpath of your site, e.g. "/blog"
-repository               : "l-scofano"
+url                      : "https://l-scofano.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl                  : "" # the subpath of your site, e.g. "/blog"
+repository               : "l-scofano/l-scofano.github.io"
 # teaser                   : "lucas.jpeg"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
