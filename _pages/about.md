@@ -17,7 +17,7 @@ Beyond academia, my passion for photography captures everyday beauty. When not i
 ## News
 
 ***09/2023:*** Our Paper "Staged Contact-Aware Global Human Motion
-Forecasting" has been accepted as *oral* at BMVC 2023!
+Forecasting" has been accepted as **oral** at BMVC 2023!
 
 ***07/2023:*** We **won** the ICML 2023 Topological Deep Learning [Challenge](https://pyt-team.github.io/topomodelx/challenge/index.html)!
 
