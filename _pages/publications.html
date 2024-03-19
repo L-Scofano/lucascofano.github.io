@@ -8,7 +8,14 @@ author_profile: true
 {% assign publications = site.publications | sort: "year" | reverse %}
 {% for pub in publications %}
 <div class="pubitem">
-  
+    <!-- <div class="pubteaser">
+        <a href="{{pub.url_paper}}">
+          <img
+            src="/images/publications/{{ pub.slug }}_teaser.png"
+            alt="{{pub.slug}} publication teaser"
+          />
+        </a>
+      </div> -->
 <div class="content_pub">
   <div class="pubtitle">{{ pub.title }}</div>
   <div class="pubauthors">{{ pub.authors }}</div>
