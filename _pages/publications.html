@@ -5,20 +5,18 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% assign all_years = publications | uniq: "year" | sort: "desc" %}
-
-{% for year in all_years %}
-  <h2>{{ year }}</h2>
-  <ul class="pub-list">
-  {% assign year_pubs = publications | where: "year", year %}
-    {% if year_pubs.size > 0 %}  {% for pub in year_pubs %}
-        <li>
-          <a href="{{ pub.url_paper }}">{{ pub.title }}</a>
-          - {{ pub.authors }}  <br>
-          <i>{{ pub.publication }}</i>, {{ pub.year }}
-        </li>
-      {% endfor %}
-    {% else %}
-      <li>No publications in {{ year }}</li>  {% endif %}
-  </ul>
+{% assign publications = site.publications | sort: "year" | reverse %}
+{% for pub in publications %}
+<div class="pubitem">
+<div class="content_pub">
+  <div class="pubtitle">{{ pub.title }}</div>
+  <div class="pubauthors">{{ pub.authors }}</div>
+  <div class="pubinfo"><i>{{ pub.publication }}</i>, {{ pub.year}}</div>
+  <div class="publinks">
+    <a href="{{ pub.url_paper }}"><i class="fas fa-link"></i> PDF</a
+    >&nbsp;&nbsp;
+    <a href="{{pub.project_url}}"><i class="fas fa-link"></i> Project Page</a>
+  </div>
+</div>
+</div>
 {% endfor %}
