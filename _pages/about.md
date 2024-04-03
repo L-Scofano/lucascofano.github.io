@@ -14,7 +14,7 @@ My academic journey has been diverse. I earned a bachelor's in Economics, emphas
 
 ## News
 
-***09/2023:*** Our Paper "PREGO: online mistake detection in PRocedural EGOcentric videos" has been accepted at CVPR 2024!
+***09/2023:*** Our [Paper](https://arxiv.org/abs/2404.01933) "PREGO: online mistake detection in PRocedural EGOcentric videos" has been accepted at CVPR 2024!
 
 ***09/2023:*** Our [Paper](https://arxiv.org/abs/2309.08947) "Staged Contact-Aware Global Human Motion
 Forecasting" has been accepted as **oral** at BMVC 2023!
