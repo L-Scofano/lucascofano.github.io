@@ -8,7 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I'm a third year Data Science Ph.D. student at Sapienza University of Rome, where I'm a member of the [PINlab](https://www.pinlab.org/) group. In my ongoing Ph.D. program I delved into topics such as **multi-body pose forecasting**, **scene-aware pose forecasting**, exploring **higher-order topologies** in data and **in-context learning** for procedural anomaly detection. Currently, my primary research focuses on the captivating domains of **embodied AI** and **multi-modal learning**, where we are working to develop AI systems that perceive and interact with their environments more like humans.
+Hello! I'm a third year Data Science Ph.D. student at Sapienza University of Rome, where I'm a member of the [PINlab](https://www.pinlab.org/) group. 
+
+In my ongoing Ph.D. program I delved into topics such as **multi-body pose forecasting**, **scene-aware pose forecasting**, exploring **higher-order topologies** in data and **in-context learning** for procedural anomaly detection. 
+
+Currently, my primary research focuses on the captivating domains of **embodied AI** and **multi-modal learning**, where we are working to develop AI systems that perceive and interact with their environments more like humans.
 
 My academic journey has been diverse. I earned a bachelor's in Economics, emphasizing Macroeconomics and Econometrics, providing a unique perspective on data-driven problems. For my master's, I shifted to Data Science, focusing on Computer Vision.
 
