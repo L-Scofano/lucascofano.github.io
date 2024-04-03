@@ -14,15 +14,15 @@ My academic journey has been diverse. I earned a bachelor's in Economics, emphas
 
 ## News
 
-***09/2023:*** Our [Paper](https://arxiv.org/abs/2404.01933) "PREGO: online mistake detection in PRocedural EGOcentric videos" has been accepted at CVPR 2024!
+***09/2023:*** Our [Paper](https://arxiv.org/abs/2404.01933) "PREGO: online mistake detection in PRocedural EGOcentric videos" has been accepted at ***CVPR 2024***!
 
 ***09/2023:*** Our [Paper](https://arxiv.org/abs/2309.08947) "Staged Contact-Aware Global Human Motion
-Forecasting" has been accepted as **oral** at BMVC 2023!
+Forecasting" has been accepted as **oral** at ***BMVC 2023***!
 
-***07/2023:*** We **won** the ICML 2023 Topological Deep Learning [Challenge](https://pyt-team.github.io/topomodelx/challenge/index.html)!
+***07/2023:*** We **won** the ***ICML 2023 Topological Deep Learning [Challenge](https://pyt-team.github.io/topomodelx/challenge/index.html)***!
 
-***06/2023:*** We **received the award** for the best paper at CVPR 2023 [Precognition](https://sites.google.com/view/ieeecvf-cvpr2023-precognition/) workshop!
+***06/2023:*** We **received the award** for the ***best paper at CVPR 2023*** [Precognition](https://sites.google.com/view/ieeecvf-cvpr2023-precognition/) workshop!
 
-***05/2023:*** Our [Paper](https://arxiv.org/abs/2304.05758) "Best Practices for 2-Body Pose Forecasting" has been accepted at CVPR 2023 [Precognition](https://sites.google.com/view/ieeecvf-cvpr2023-precognition/) workshop!
+***05/2023:*** Our [Paper](https://arxiv.org/abs/2304.05758) "Best Practices for 2-Body Pose Forecasting" has been accepted at ***CVPR 2023 [Precognition](https://sites.google.com/view/ieeecvf-cvpr2023-precognition/) workshop***!
 
-***04/2023:*** Our [Paper](https://arxiv.org/abs/2304.08272) "About latent roles in forecasting players in team sports" has been accepted at ICLR 2023 workshop [AI4ABM](https://ai4abm.org/) - International AI for Agent-Based Modelling Community as an oral presentation!
+***04/2023:*** Our [Paper](https://arxiv.org/abs/2304.08272) "About latent roles in forecasting players in team sports" has been accepted at ***ICLR 2023 workshop*** [AI4ABM](https://ai4abm.org/) - International AI for Agent-Based Modelling Community as an oral presentation!
